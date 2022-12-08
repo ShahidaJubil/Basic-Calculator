@@ -1,0 +1,25 @@
+.calc {
+  height: fit-content;
+  width: fit-content;
+  background: gray;
+  margin: 0 auto;
+  margin-top: 40px;
+  padding: 20px;
+}
+
+.inputfield {
+  margin: 20px;
+  width: 85%;
+  height: 70px;
+  pointer-events: none;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  font-size: 1.7rem;
+  height: 50px;
+  width: 60px;
+  margin: 10px;
+}
